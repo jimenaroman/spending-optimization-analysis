@@ -1,0 +1,135 @@
+date,category,amount,type,essential,merchant,notes
+2025-10-01,Income,450,Income,Yes,University Job,Monthly wages
+2025-10-01,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-10-01,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-10-03,Income,700,Income,Yes,Family Support,Monthly support
+2025-10-06,Cloud Storage,9.99,Fixed,No,Apple,iCloud
+2025-10-06,Dining Out,30,Variable,No,Shinju,Meal out
+2025-10-08,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-10-08,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-10-08,Device Protection,10.99,Fixed,Yes,Apple,AppleCare
+2025-10-09,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-10-11,Entertainment,11.99,Fixed,No,Spotify,Spotify
+2025-10-13,Transportation,60,Variable,Mixed,Uber,Monthly rides
+2025-10-15,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-10-15,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-10-15,Dining Out,30,Variable,No,Shinju,Meal out
+2025-10-18,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-10-21,Shopping,60,Variable,No,Chinatown,Non-essential
+2025-10-22,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-10-22,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-10-24,Dining Out,30,Variable,No,Shinju,Meal out
+2025-10-27,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-10-29,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-10-29,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-11-01,Income,450,Income,Yes,University Job,Monthly wages
+2025-11-03,Income,700,Income,Yes,Family Support,Monthly support
+2025-11-05,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-11-05,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-11-06,Cloud Storage,9.99,Fixed,No,Apple,iCloud
+2025-11-06,Dining Out,30,Variable,No,Shinju,Meal out
+2025-11-08,Device Protection,10.99,Fixed,Yes,Apple,AppleCare
+2025-11-09,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-11-11,Entertainment,11.99,Fixed,No,Spotify,Spotify
+2025-11-12,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-11-12,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-11-13,Transportation,60,Variable,Mixed,Uber,Monthly rides
+2025-11-15,Dining Out,30,Variable,No,Shinju,Meal out
+2025-11-18,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-11-19,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-11-19,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-11-21,Shopping,60,Variable,No,Chinatown,Non-essential
+2025-11-22,Travel,300,Variable,Yes,Airline,Flight home
+2025-11-24,Dining Out,30,Variable,No,Shinju,Meal out
+2025-11-26,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-11-26,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-11-27,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-12-01,Income,450,Income,Yes,University Job,Monthly wages
+2025-12-03,Income,700,Income,Yes,Family Support,Monthly support
+2025-12-03,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-12-03,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-12-06,Cloud Storage,9.99,Fixed,No,Apple,iCloud
+2025-12-06,Dining Out,30,Variable,No,Shinju,Meal out
+2025-12-08,Device Protection,10.99,Fixed,Yes,Apple,AppleCare
+2025-12-09,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-12-10,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-12-10,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-12-11,Entertainment,11.99,Fixed,No,Spotify,Spotify
+2025-12-13,Transportation,60,Variable,Mixed,Uber,Monthly rides
+2025-12-15,Dining Out,30,Variable,No,Shinju,Meal out
+2025-12-15,Travel,310,Variable,Yes,Airline,Flight home
+2025-12-17,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-12-17,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-12-18,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-12-21,Shopping,60,Variable,No,Chinatown,Non-essential
+2025-12-24,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-12-24,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2025-12-24,Dining Out,30,Variable,No,Shinju,Meal out
+2025-12-27,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2025-12-31,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2025-12-31,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-01-01,Income,450,Income,Yes,University Job,Monthly wages
+2026-01-03,Income,700,Income,Yes,Family Support,Monthly support
+2026-01-06,Cloud Storage,9.99,Fixed,No,Apple,iCloud
+2026-01-06,Dining Out,30,Variable,No,Shinju,Meal out
+2026-01-07,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-01-07,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-01-08,Device Protection,10.99,Fixed,Yes,Apple,AppleCare
+2026-01-09,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-01-10,Groceries,74,Variable,Yes,Target,Protein powder
+2026-01-11,Entertainment,11.99,Fixed,No,Spotify,Spotify
+2026-01-13,Transportation,60,Variable,Mixed,Uber,Monthly rides
+2026-01-14,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-01-14,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-01-15,Dining Out,30,Variable,No,Shinju,Meal out
+2026-01-18,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-01-21,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-01-21,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-01-21,Shopping,60,Variable,No,Chinatown,Non-essential
+2026-01-24,Dining Out,30,Variable,No,Shinju,Meal out
+2026-01-27,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-01-28,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-01-28,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-02-01,Income,450,Income,Yes,University Job,Monthly wages
+2026-02-03,Income,700,Income,Yes,Family Support,Monthly support
+2026-02-04,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-02-04,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-02-06,Cloud Storage,9.99,Fixed,No,Apple,iCloud
+2026-02-06,Dining Out,30,Variable,No,Shinju,Meal out
+2026-02-08,Device Protection,10.99,Fixed,Yes,Apple,AppleCare
+2026-02-09,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-02-11,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-02-11,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-02-11,Entertainment,11.99,Fixed,No,Spotify,Spotify
+2026-02-13,Transportation,60,Variable,Mixed,Uber,Monthly rides
+2026-02-15,Dining Out,30,Variable,No,Shinju,Meal out
+2026-02-18,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-02-18,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-02-18,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-02-21,Shopping,60,Variable,No,Chinatown,Non-essential
+2026-02-24,Dining Out,30,Variable,No,Shinju,Meal out
+2026-02-25,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-02-25,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-02-27,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-03-01,Income,450,Income,Yes,University Job,Monthly wages
+2026-03-03,Income,700,Income,Yes,Family Support,Monthly support
+2026-03-04,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-03-04,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-03-06,Cloud Storage,9.99,Fixed,No,Apple,iCloud
+2026-03-06,Dining Out,30,Variable,No,Shinju,Meal out
+2026-03-08,Device Protection,10.99,Fixed,Yes,Apple,AppleCare
+2026-03-09,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-03-11,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-03-11,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-03-11,Entertainment,11.99,Fixed,No,Spotify,Spotify
+2026-03-13,Transportation,60,Variable,Mixed,Uber,Monthly rides
+2026-03-15,Dining Out,30,Variable,No,Shinju,Meal out
+2026-03-18,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-03-18,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-03-18,Dining Out,32,Variable,No,Downtown Chicago,Meal out
+2026-03-20,Travel,290,Variable,Yes,Airline,Flight home
+2026-03-21,Shopping,60,Variable,No,Chinatown,Non-essential
+2026-03-24,Dining Out,30,Variable,No,Shinju,Meal out
+2026-03-25,Groceries,76,Variable,Yes,Whole Foods,Weekly groceries bundle
+2026-03-25,Groceries,35,Variable,Yes,Target,Weekly groceries bundle
+2026-03-27,Dining Out,32,Variable,No,Downtown Chicago,Meal out
